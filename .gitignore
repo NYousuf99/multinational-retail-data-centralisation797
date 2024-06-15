@@ -1,5 +1,6 @@
 # Ignore all files with a specific extension
 *.yaml
+*.history
 
 
 # Ignore specific files
