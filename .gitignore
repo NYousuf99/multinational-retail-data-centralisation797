@@ -1,7 +1,7 @@
 # Ignore all files with a specific extension
 *.yaml
 *.history
-
+*.gitignore
 
 # Ignore specific files
 # secret.txt
