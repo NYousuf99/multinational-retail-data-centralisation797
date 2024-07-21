@@ -1,5 +1,5 @@
 # Ignore all files with a specific extension
-*.yaml
+# *.yaml
 *.history
 *.gitignore
 
