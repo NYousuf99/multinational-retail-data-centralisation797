@@ -170,7 +170,7 @@ class DataCleaning :
             if 'x' in value:
                 new_value = value.split('x')
                 new_i = float(new_value[0])*float(new_value[1])
-            return new_i
+                return new_i
         except:
             return value
     def weight_converter(self):
